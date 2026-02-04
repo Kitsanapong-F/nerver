@@ -20,3 +20,10 @@ class show{
         System.out.println("hello_world");
     }
 }
+
+
+class dev{
+    public static void dev(){
+        System.out.println("dev_method");
+    }
+}
