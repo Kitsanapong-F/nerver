@@ -7,6 +7,6 @@ public class thncht {
         System.out.println("Enter your name : ");
         String name = scanner.nextLine();
 
-        System.out.println("Your nameeeeeeeee : " + name);
+        System.out.println("Your ffadws : " + name);
     }
 }
