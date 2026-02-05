@@ -5,6 +5,11 @@ public class frame {
         show.show();
         bekk bell = new bekk() ;
         bell.display();
+        dev.dev();
+        bruh.bruh();
+        hello_world.hello_world();
+
+        
     }
 }
 
@@ -30,5 +35,11 @@ class dev{
 class bruh{
     public static void bruh(){
         System.out.println("Never gonna give you up");
+    }
+}
+
+class hello_world{
+    public static void hello_world(){
+        System.out.println("hello_world_method");
     }
 }
