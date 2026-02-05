@@ -5,6 +5,8 @@ public class frame {
         show.show();
         bekk bell = new bekk() ;
         bell.display();
+
+        System.out.println("wqqwpoqwpoqwop");
     }
 }
 
