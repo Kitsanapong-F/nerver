@@ -3,7 +3,8 @@ public class panupong {
        panupong_display.panupong_display();
          display.display();
          show.show();
-      
+            bek bek = new bek();
+            bek.display();
     }
 }
 
@@ -22,5 +23,11 @@ class display{
 class show{
     public static void show(){
         System.out.println("hello_world");
+    }
+}
+
+class bek{
+    public void display(){
+        System.out.println("bekk_display_method");
     }
 }
