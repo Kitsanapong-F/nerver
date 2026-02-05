@@ -26,3 +26,9 @@ class dev{
         System.out.println("dev_method");
     }
 }
+
+class bruh{
+    public static void bruh(){
+        System.out.println("Never gonna give you up");
+    }
+}
