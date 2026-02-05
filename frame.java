@@ -23,7 +23,6 @@ class show{
     }
 }
 
-
 class dev{
     public static void dev(){
         System.out.println("dev_method");
