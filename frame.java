@@ -29,6 +29,6 @@ class dev{
 
 class bruh{
     public static void bruh(){
-        System.out.println("Never gonna give you up");
+        System.out.println("frame");
     }
 }
